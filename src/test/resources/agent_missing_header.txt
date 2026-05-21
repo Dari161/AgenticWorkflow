@@ -1,0 +1,6 @@
+STEP
+name= integrálás magyarázás
+prompt= Magyarázd el az integrálást!
+systemPrompt= Érthetően, de ne túl hosszasan fogalmazz!
+output= STRING
+ENDSTEP

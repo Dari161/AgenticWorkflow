@@ -1,0 +1,15 @@
+AGENT: math_explainer
+
+STEP
+name=derivalas magyarazas
+prompt=Magyarazd el a derivalast!
+systemPrompt=Erthetoen, de ne tul hosszasan fogalmazz!
+output=STRING
+ENDSTEP
+
+STEP
+name=integralas magyarazas
+prompt=Magyarazd el az integralast!
+systemPrompt=Erthetoen, de ne tul hosszasan fogalmazz!
+output=STRING
+ENDSTEP

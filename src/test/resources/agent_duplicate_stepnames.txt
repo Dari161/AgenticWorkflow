@@ -1,0 +1,13 @@
+AGENT: math_explainer
+STEP
+name= duplicate name
+prompt= Magyarázd el a deriválást!
+systemPrompt= Érthetően, de ne túl hosszasan fogalmazz!
+output= STRING
+ENDSTEP
+STEP
+name= duplicate name
+prompt= Magyarázd el az integrálást!
+systemPrompt= Érthetően, de ne túl hosszasan fogalmazz!
+output= STRING
+ENDSTEP
